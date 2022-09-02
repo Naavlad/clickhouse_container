@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/license/Naavlad/clickhouse_container)
+![](https://img.shields.io/github/license/Naavlad/clickhouse_container?style=flat-square)
 # Clickhouse
 Для параллельного развертывания на одном сервере контейнеров по имени проекта
 
